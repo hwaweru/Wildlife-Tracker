@@ -19,7 +19,7 @@ Wildlife Tracker App
 * Open terminal
 * Navigate to appropriate directory using the cd command
 * Type in the command git clone and paste the url of clone and then press enter
-* 
+
 ## Setup Requirements for Database
 * In PSQL:
 * CREATE DATABASE wildlife_tracker;
