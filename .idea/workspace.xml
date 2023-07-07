@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0842c10-6430-4b8b-83c7-1337c5efcd33" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EndangeredAnimalsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LocationsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RangersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/SightingsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-EndangeredAnimalsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LocationsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire10474029865825808214tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire7644409793580992531tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_016602237013550746347tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_09562729535545354809tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter1353818575185325277.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
