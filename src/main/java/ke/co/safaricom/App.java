@@ -1,3 +1,5 @@
+package ke.co.safaricom;
+
 import spark.ModelAndView;
 import spark.template.handlebars.HandlebarsTemplateEngine;
 
